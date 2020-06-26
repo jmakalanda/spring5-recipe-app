@@ -17,7 +17,7 @@ public class Recipe {
     private String url;
     @Lob
     private String directions;
-    
+
     @Lob
     private Byte[] image;
 
